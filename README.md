@@ -2,7 +2,7 @@
 
   <h2 align="center">SallSnake</h2>  
   <p align="center">Simple, (bugged), early alpha canvas snake, I wanted to play a Snake... So I programmed it. Play without any grid, I hate it too!</p>
-  <p>live: <a href="https://sweet-halva-a20984.netlify.app/" target="_blank" rel="noopener">SALLOS live</a>
+  <p>live: <a href="https://sweet-halva-a20984.netlify.app/" target="_blank" rel="noopener">SallSnake live</a>
   
   <details>
     <summary>Content</summary>

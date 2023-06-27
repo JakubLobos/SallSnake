@@ -19,7 +19,10 @@
   
   <h3 id="instructions">Instructions</h3>
   <hr>
-  <p>To Install: clone the repo and save into your new repository. Once installed, open index.html file, or use terminal/IDE to create a live server.</p>
+  <ul>
+    <li>To Install: clone the repo and save into your new repository. Once installed, open index.html file, or use terminal/IDE to create a live server.</li>
+    <li>USE: WSAD to control your snake, TODO: mobile & mouse control</li>
+  </ul>
   
   <h3 id="contributing">Contribution Guidelines</h3>
   <hr>
@@ -27,7 +30,7 @@
   
   <h3 id="features">Features information</h3>
   <hr>
-    <ul>
+  <ul>
     <li>You can grow a snake</li>
     <li>Your snake may die, sorry :/.</li>
   </ul>

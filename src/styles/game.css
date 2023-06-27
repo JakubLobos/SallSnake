@@ -1,0 +1,9 @@
+.gameboard_wrapper {
+    
+}
+
+#canvas {
+    background-color: aliceblue;
+    width: 50vw;
+    height: auto;
+}
